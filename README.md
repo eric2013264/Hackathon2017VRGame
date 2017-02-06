@@ -23,4 +23,4 @@ Developed on a VR-ready machine with Unity and C# in Visual Studio with and for 
   * “CollisionScript” will be called when the katana collides with fruit at a certain velocity.
 
 ####Collision & Gameplay Video Demo
-<Please see YouTube link above>
+* Please see YouTube link above
