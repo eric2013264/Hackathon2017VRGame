@@ -8,11 +8,11 @@ YouTube URL for video presentation and demo:
 Developed on a VR-ready machine with Unity and C# in Visual Studio with and for the HTC Vive VR Headset.
 
 ####Project Proposal 
-A family-friendly virtual reality game for the HTC Vive VR Headset
-* Fast paced
-* Highly interactive
-* Takes advantage of both “hand” controllers (Dual-wielding)
-Player tries to slice as many fruit as possible
+* A family-friendly virtual reality game for the HTC Vive VR Headset
+  * Fast paced
+  * Highly interactive
+  * Takes advantage of both “hand” controllers (Dual-wielding)
+* Player tries to slice as many fruit as possible
 
 ####Steps Taken 
 Unity: Manipulated 3D assests
