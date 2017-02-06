@@ -3,7 +3,7 @@
 John Chen and I's submission for the WSU 5th annual Hackathon: Crimson Code 2017.
 We created a "Fruit Ninja"-like VR game developed with Unity and written in C#.
 
-YouTube URL for video presentation and demo: 
+YouTube URL for video presentation and demo: https://youtu.be/QPoTa5yRsso
 
 Developed on a VR-ready machine with Unity and C# in Visual Studio with and for the HTC Vive VR Headset.
 
